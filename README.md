@@ -17,7 +17,7 @@ The purpose of this project was to further solidify my fluency and understanding
 
 
 ### Technologies Used
-* HTML5 & CSS3
+* HTML & CSS
 
 
 ### Project Status
