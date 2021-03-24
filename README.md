@@ -1,6 +1,6 @@
 ## HTML Elements Cheat Sheet
 > A simple reference cheat sheet to help me remember basic concepts and build more websites in the future.
-> Live demo [_here_](https://peterkibuchi.github.io/html-cheatsheet).
+> Live demo [_here_](https://peterkibuchi.github.io/html-cheatsheet/).
 
 
 ### Table of contents
@@ -29,8 +29,8 @@ Project is: _completed_.
 
 
 ### Inspiration
-Add here credits. Project inspired by..., based on...
-This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
+- This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
+- I used the HTML cheat sheet references from the [MDN Web Docs on the topic](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
 
 ### Contact
