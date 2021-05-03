@@ -21,7 +21,7 @@ The purpose of this project was to further solidify my fluency and understanding
 
 
 ## Project Status
-Project is: _completed_.
+Project is: _complete_.
 
 
 ## Room for Improvement
